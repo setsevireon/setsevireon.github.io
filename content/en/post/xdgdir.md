@@ -18,7 +18,7 @@ expect things to be where they should. At least system wide, where it is really
 important.
 
 The user home directory, on the other hand, is a lawless land, ruled by dots.
-It is difficult do distinguish what is configuration, data, local binaries and
+It is difficult to distinguish what is configuration, data, local binaries and
 libraries or temporary files. I must admit, It bugs me to have a bunch of
 dotfiles scattered over my homedir to the point of writing a blog post about it.
 
@@ -36,7 +36,7 @@ tell them what to do* (a bit too harsh?).
 
 There is a good reason not to hard-code user configuration, while the system
 should be as agnostic to user's preferences as possible, user's home should be
-adaptable to each ones workflow an organizational system. I don't think XDG
+adaptable to each ones workflow and organizational system. I don't think XDG
 solution is the ideal one, but is the best attempt so far.
 
 [2]: https://xkcd.com/927/ "How Standars Proliferate"
