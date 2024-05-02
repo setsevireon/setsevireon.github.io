@@ -2,4 +2,4 @@
 title: About
 ---
 
-Me chamo Karl-Marx. Aqui é onde escrevo.
+Me chamo Karlmarx. Aqui é onde escrevo.

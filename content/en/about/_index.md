@@ -2,4 +2,4 @@
 title: About
 ---
 
-My name is Karl-Marx. Here is where I blog.
+My name is Karlmarx. Here is where I blog.

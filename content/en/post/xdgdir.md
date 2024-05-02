@@ -2,7 +2,7 @@
 title: A Lawless Land Ruled by Dots
 date: 2021-07-28T09:13:32-03:00
 tags: [opinion, xdg, homedir, dotfiles]
-author: Karl-Marx
+author: Karlmarx
 description: About XDG Base Directory and Directory Standards
 ---
 

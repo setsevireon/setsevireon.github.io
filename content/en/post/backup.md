@@ -2,7 +2,7 @@
 title: Sysadmin's Home Backup
 date: 2023-12-02
 tags: [backup, restic, systemd]
-author: Karl-Marx
+author: Karlmarx
 description: Automated backup with restic, rclone and systemd
 ---
 
